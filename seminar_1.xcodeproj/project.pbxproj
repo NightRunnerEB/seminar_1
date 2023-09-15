@@ -16,6 +16,7 @@
 		6704F9ED2AB4AF04009C180F /* seminar_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6704F9EC2AB4AF04009C180F /* seminar_1Tests.swift */; };
 		6704F9F72AB4AF04009C180F /* seminar_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6704F9F62AB4AF04009C180F /* seminar_1UITests.swift */; };
 		6704F9F92AB4AF04009C180F /* seminar_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6704F9F82AB4AF04009C180F /* seminar_1UITestsLaunchTests.swift */; };
+		6704FA062AB4AF28009C180F /* IOSNIS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6704FA052AB4AF28009C180F /* IOSNIS.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6704F9F22AB4AF04009C180F /* seminar_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = seminar_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6704F9F62AB4AF04009C180F /* seminar_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seminar_1UITests.swift; sourceTree = "<group>"; };
 		6704F9F82AB4AF04009C180F /* seminar_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seminar_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6704FA052AB4AF28009C180F /* IOSNIS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSNIS.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6704F9DE2AB4AF04009C180F /* Assets.xcassets */,
 				6704F9E02AB4AF04009C180F /* LaunchScreen.storyboard */,
 				6704F9E32AB4AF04009C180F /* Info.plist */,
+				6704FA052AB4AF28009C180F /* IOSNIS.swift */,
 			);
 			path = seminar_1;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6704FA062AB4AF28009C180F /* IOSNIS.swift in Sources */,
 				6704F9DA2AB4AF03009C180F /* ViewController.swift in Sources */,
 				6704F9D62AB4AF03009C180F /* AppDelegate.swift in Sources */,
 				6704F9D82AB4AF03009C180F /* SceneDelegate.swift in Sources */,
